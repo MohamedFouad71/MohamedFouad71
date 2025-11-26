@@ -112,14 +112,6 @@ I'm dedicated to building scalable, efficient applications and continuously expa
 
 ---
 
-## 💼 Professional Objective
-
-Passionate software developer with a strong foundation in **DotNet development** and **problem solving**. I have worked on several projects where I collaborated with teammates and followed clean coding techniques. 
-
-**Currently seeking internship opportunities** where I can apply my technical skills, contribute to meaningful projects, and continue growing as a software engineer in a professional environment.
-
----
-
 ## 📚 Learning Path & Interests
 
 - 🚀 **Current Focus:** DevOps Engineering (Docker, Kubernetes, Infrastructure as Code)
@@ -163,8 +155,6 @@ I'm always interested in discussing:
 <div align="center">
 
 ### 🌟 Open to Opportunities
-
-Currently seeking **internship opportunities** where I can apply my technical skills and grow as a software engineer.
 
 **If you find my work interesting, feel free to:**
 - ⭐ Star my repositories
