@@ -17,7 +17,7 @@
 
 ## 🎯 About Me
 
-Passionate **Software Engineer** with a strong foundation in **.NET development**, cloud technologies, and DevOps. I have worked on full-stack projects following clean coding principles and best practices. Currently pursuing my degree while gaining hands-on experience through internships and professional training. 
+Passionate **Software Engineer** with a strong foundation in **.NET development**, cloud technologies, and DevOps. I have worked on full-stack projects following clean coding principles and best practices.
 
 I'm dedicated to building scalable, efficient applications and continuously expanding my technical expertise across the full development stack.
 
